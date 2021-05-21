@@ -4,7 +4,7 @@
 #
 Name     : perl-Config-AutoConf
 Version  : 0.319
-Release  : 4
+Release  : 5
 URL      : https://cpan.metacpan.org/authors/id/R/RE/REHSACK/Config-AutoConf-0.319.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/R/RE/REHSACK/Config-AutoConf-0.319.tar.gz
 Summary  : 'A module to implement some of AutoConf macros in pure perl.'
