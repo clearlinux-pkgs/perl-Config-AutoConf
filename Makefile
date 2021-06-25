@@ -1,5 +1,5 @@
 PKG_NAME := perl-Config-AutoConf
-URL = https://cpan.metacpan.org/authors/id/R/RE/REHSACK/Config-AutoConf-0.319.tar.gz
+URL = https://cpan.metacpan.org/authors/id/A/AM/AMBS/Config-AutoConf-0.320.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
