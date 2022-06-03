@@ -4,7 +4,7 @@
 #
 Name     : perl-Config-AutoConf
 Version  : 0.320
-Release  : 11
+Release  : 12
 URL      : https://cpan.metacpan.org/authors/id/A/AM/AMBS/Config-AutoConf-0.320.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/A/AM/AMBS/Config-AutoConf-0.320.tar.gz
 Summary  : 'A module to implement some of AutoConf macros in pure perl.'
@@ -97,4 +97,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.34.0/Config/AutoConf.pm
+/usr/lib/perl5/*
