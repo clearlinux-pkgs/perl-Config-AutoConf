@@ -4,7 +4,7 @@
 #
 Name     : perl-Config-AutoConf
 Version  : 0.320
-Release  : 18
+Release  : 19
 URL      : https://cpan.metacpan.org/authors/id/A/AM/AMBS/Config-AutoConf-0.320.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/A/AM/AMBS/Config-AutoConf-0.320.tar.gz
 Summary  : 'A module to implement some of AutoConf macros in pure perl.'
